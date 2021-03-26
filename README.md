@@ -1,0 +1,2 @@
+# Xojo-NSApplication-setActivationPolicy
+ 
